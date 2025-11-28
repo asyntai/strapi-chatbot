@@ -1,0 +1,19 @@
+{
+  "asyntai-chatbot.plugin.name": "Asyntai AI Chatbot",
+  "asyntai-chatbot.settings.title": "Asyntai AI Chatbot",
+  "asyntai-chatbot.settings.status": "Status",
+  "asyntai-chatbot.settings.connected": "Connected",
+  "asyntai-chatbot.settings.notConnected": "Not connected",
+  "asyntai-chatbot.settings.getStarted": "Get started",
+  "asyntai-chatbot.settings.reset": "Reset",
+  "asyntai-chatbot.settings.copyCode": "Copy Code",
+  "asyntai-chatbot.settings.copied": "Copied!",
+  "asyntai-chatbot.settings.openPanel": "Open Asyntai Panel",
+  "asyntai-chatbot.settings.snippetTitle": "Add this JavaScript snippet to all pages where you want to enable the chatbot",
+  "asyntai-chatbot.settings.setupInfo": "Set up your AI chatbot, review chat logs and more:",
+  "asyntai-chatbot.settings.tip": "Tip: If you want to change how the AI answers, please",
+  "asyntai-chatbot.settings.goHere": "go here",
+  "asyntai-chatbot.settings.createAccount": "Create a free Asyntai account or sign in to enable the chatbot",
+  "asyntai-chatbot.settings.popupFallback": "If it doesn't work,",
+  "asyntai-chatbot.settings.openConnectWindow": "open the connect window"
+}

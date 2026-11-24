@@ -12,6 +12,8 @@ This plugin embeds the Asyntai chatbot on your site and provides a simple admin 
 
 • **Knows your website**: Customized just for you; it follows your instructions.
 
+• **Always up to date**: Share your published Strapi content with the chatbot directly, so its answers follow every change you make.
+
 • **Works in all languages**: Automatically detects and answers in the visitor's language.
 
 • **Fast responses (1–3s)**: Keeps customers from bouncing.
@@ -48,11 +50,13 @@ Note: Alternatively, if you don't want to use a plugin, you can also get a JavaS
 After installation:
 
 1. Go to Admin Panel → Asyntai AI Chatbot (in the left sidebar)
-2. Click "Get started" to connect your Asyntai account
-3. Sign in or create a free account
-4. The plugin will automatically save your connection
-5. Copy the JavaScript snippet and add it to your frontend pages
-6. Set up your chatbot, review chat logs and more at: [asyntai.com/dashboard](https://asyntai.com/dashboard)
+2. Leave "Let the chatbot read my published content directly" ticked to share your content with the chatbot
+3. Click "Get started" to connect your Asyntai account
+4. Sign in or create a free account
+5. The plugin will automatically save your connection
+6. Choose which content types to share (at first, the ones your Public role can already read)
+7. Copy the JavaScript snippet and add it to your frontend pages
+8. Set up your chatbot, review chat logs and more at: [asyntai.com/dashboard](https://asyntai.com/dashboard)
 
 Don't have an account yet? Create a free Asyntai account at [asyntai.com/auth](https://asyntai.com/auth)
 
@@ -66,7 +70,7 @@ Once connected, you can manage your chatbot settings, review chat logs, and cust
 
 - Strapi 5.0 or higher
 - Node.js 18.0 or higher
-- Admin access for configuration
+- Super Admin access for configuration
 - If your Strapi version is not compatible, you can still use Asyntai by getting a JavaScript snippet from [asyntai.com/dashboard](https://asyntai.com/dashboard)
 
 
@@ -75,12 +79,12 @@ Email us at hello@asyntai.com or try our chatbot directly at [asyntai.com/](http
 
 
 
-![Asyntai AI chatbot 1](https://asyntai.com/static/images/ai-chatbot-for-websites-1.png)
+![Asyntai AI chatbot 1](https://raw.githubusercontent.com/asyntai/strapi-chatbot/main/assets/screenshot-1.png)
 
-![Asyntai AI chatbot 2](https://asyntai.com/static/images/ai-chatbot-for-websites-2.png)
+![Asyntai AI chatbot 2](https://raw.githubusercontent.com/asyntai/strapi-chatbot/main/assets/screenshot-2.png)
 
-![Asyntai AI chatbot 3](https://asyntai.com/static/images/ai-chatbot-for-websites-3.png)
+![Asyntai AI chatbot 3](https://raw.githubusercontent.com/asyntai/strapi-chatbot/main/assets/screenshot-3.png)
 
-![Asyntai AI chatbot 4](https://asyntai.com/static/images/ai-chatbot-for-websites-4.png)
+![Asyntai AI chatbot 4](https://raw.githubusercontent.com/asyntai/strapi-chatbot/main/assets/screenshot-4.png)
 
-![Asyntai AI chatbot 5](https://asyntai.com/static/images/ai-chatbot-for-websites-5.png)
+![Asyntai AI chatbot 5](https://raw.githubusercontent.com/asyntai/strapi-chatbot/main/assets/screenshot-5.png)
